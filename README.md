@@ -19,3 +19,5 @@ Beschreibung:
 	o es sind die Konstanten für Drehung/Motor und die optischen Sensoren in den .c files einzustellen
 	o kompilieren und programm via Tower hochladen mit den .sh files
  
+
+Wurde seit 2010 nicht mehr verändert. "Works for me" :)
