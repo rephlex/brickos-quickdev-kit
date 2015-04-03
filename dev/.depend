@@ -1,0 +1,9 @@
+main.o: main.c /usr/include/brickos/conio.h /usr/include/brickos/config.h \
+  /usr/include/brickos/sys/lcd.h /usr/include/brickos/rom/lcd.h \
+  /usr/include/brickos/dlcd.h /usr/include/brickos/sys/bitops.h \
+  /usr/include/brickos/dkey.h /usr/include/brickos/tm.h \
+  /usr/include/brickos/mem.h /usr/include/brickos/stdlib.h \
+  /usr/include/brickos/unistd.h /usr/include/brickos/time.h \
+  /usr/include/brickos/dmotor.h /usr/include/brickos/dsound.h \
+  /usr/include/brickos/dsensor.h /usr/include/brickos/sys/h8.h \
+  /usr/include/brickos/string.h
