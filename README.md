@@ -1,13 +1,10 @@
 # brickos-quickdev-kit
 BrickOS Quick'n'Dirty Development Kit
 
-//
-// ///// BRICKOS QUICKDEV KIT ////
-//
-// geschrieben auf dem 27C3 Congress in Berlin
-// 2010 Florian 'rephlex' Panzer
-// http://www.rephlex.de
-//
+geschrieben auf dem 27C3 Congress in Berlin
+2010 Florian 'rephlex' Panzer
+http://www.rephlex.de
+
 
 Voraussetzungen:
 
